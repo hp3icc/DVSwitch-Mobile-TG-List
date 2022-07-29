@@ -20,5 +20,7 @@ Cuando aya finalizado la instalación de su lista de tg preferida , proceda actu
 #
 
 
-![alt text](https://github.com/hp3icc/DVSwitch-Mobile-TG-List/raw/main/IMG_2275.JPG):scale: 50 %
+![alt text](https://github.com/hp3icc/DVSwitch-Mobile-TG-List/raw/main/IMG_2275.JPG)
 
+
+[[https://github.com/hp3icc/DVSwitch-Mobile-TG-List/raw/main/IMG_2275.JPG|width=400px]]
