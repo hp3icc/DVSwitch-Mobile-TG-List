@@ -21,3 +21,5 @@ Cuando aya finalizado la instalación de su lista de tg preferida , proceda actu
 
 <img src="[https://your-image-url.type](https://raw.githubusercontent.com/hp3icc/DVSwitch-Mobile-TG-List/main/IMG_2276.JPG)" width="100" height="100">
 
+#
+![alt text](https://github.com/hp3icc/DVSwitch-Mobile-TG-List/raw/main/IMG_2276.jpg width="100" height="100")
