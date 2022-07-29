@@ -1,7 +1,7 @@
 # DVSwitch-Mobile-TG-List
 
 #
-<img src="https://github.com/hp3icc/DVSwitch-Mobile-TG-List/raw/main/IMG_2274.JPG" width="600">
+<img src="https://github.com/hp3icc/DVSwitch-Mobile-TG-List/raw/main/IMG_2274.jpg" width="600">
 
 #
 
