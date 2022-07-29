@@ -1,3 +1,4 @@
+#!/bin/bash
 rm /var/lib/dvswitch/dvs/lan/*
 sudo cat > /var/lib/dvswitch/dvs/lan/language.txt <<- "EOF"
 #=====================================================================================================#
