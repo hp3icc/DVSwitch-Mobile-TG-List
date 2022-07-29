@@ -19,6 +19,12 @@ Cuando aya finalizado la instalación de su lista de tg preferida , proceda actu
 
 #
 
+# Update Data Base
+
 <img src="https://github.com/hp3icc/DVSwitch-Mobile-TG-List/raw/main/IMG_2275.JPG" width="600">
+
+#
+
+# FreeDMR TG List !
 
 <img src="https://github.com/hp3icc/DVSwitch-Mobile-TG-List/raw/main/IMG_2276.JPG" width="600">
