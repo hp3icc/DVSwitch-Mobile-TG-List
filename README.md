@@ -9,7 +9,7 @@
 
 Desde su consola terminal o ssh , copie y pegue el siguiente link 
 
-      sh -c "$(curl -fsSL https://github.com/hp3icc/DVSwitch-Mobile-TG-List/raw/main/install.sh)"
+      sh -c "$(curl -fsSL https://raw.githubusercontent.com/hp3icc/DVSwitch-Mobile-TG-List/main/install.sh)"
       
 #
 
